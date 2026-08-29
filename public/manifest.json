@@ -1,0 +1,32 @@
+{
+  "short_name": "PrepHub",
+  "name": "Prezent Prep Hub - IELTS & Academic Exam Platform",
+  "description": "IELTS Speaking, Writing, Reading, Listening, English Grammar, Mathematics & Logic Exam Preparation Platform",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0284c7",
+  "background_color": "#f0f6fc",
+  "categories": ["education", "books", "productivity"],
+  "shortcuts": [
+    {
+      "name": "IELTS Mock Tests",
+      "short_name": "Tests",
+      "description": "Start IELTS simulation test",
+      "url": "/#tests"
+    },
+    {
+      "name": "AI Study Tutor",
+      "short_name": "AI Tutor",
+      "description": "Practice IELTS Speaking with AI",
+      "url": "/#ai-tutor"
+    }
+  ]
+}

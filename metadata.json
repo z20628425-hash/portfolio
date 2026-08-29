@@ -1,0 +1,6 @@
+{
+  "name": "Prezent Prep Hub",
+  "description": "Ta'lim va testlarga tayyorgarlik platformasi - Prezent Prep Hub",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
